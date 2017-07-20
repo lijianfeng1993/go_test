@@ -1,0 +1,6 @@
+projectKey=go_hello
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/go_hello
+ceTaskId=AV1esC1IssWXSj9csNXO
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV1esC1IssWXSj9csNXO
